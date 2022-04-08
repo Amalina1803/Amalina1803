@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amalina1803 
-- 🌱 I’m currently taking my BCS(hons) Mobile Computing
+- 🌱 I’m currently taking my BCS(hons) Mobile Computing in UiTM
 
 <!---
 Amalina1803/Amalina1803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
